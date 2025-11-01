@@ -152,12 +152,8 @@
     pointer-events: none;
 }
 
-/* Asegurar que solo los slides activos tengan dropdowns interactivos */
-.slider-filter-container .slick-slide:not(.slick-active) .jet-filter-items-dropdown {
-    pointer-events: none;
-}
-
-.slider-filter-container .slick-slide.slick-active .jet-filter-items-dropdown {
+/* Todos los slides visibles deben tener dropdowns interactivos */
+.slider-filter-container .slick-slide .jet-filter-items-dropdown {
     pointer-events: auto;
 }
 

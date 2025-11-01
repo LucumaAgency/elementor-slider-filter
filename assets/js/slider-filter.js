@@ -71,8 +71,12 @@
      * Función para inicializar dropdowns de JetSmartFilters
      */
     function initDropdowns($container) {
-        // Encontrar todos los dropdowns solo en slides activos (no clonados)
-        $container.find('.slick-slide:not(.slick-cloned) .jet-filter-items-dropdown').each(function() {
+        // Encontrar todos los dropdowns (excluyendo slides clonados)
+        const $allDropdowns = $container.find('.slick-slide:not(.slick-cloned) .jet-filter-items-dropdown');
+
+        console.log('Total dropdowns encontrados:', $allDropdowns.length);
+
+        $allDropdowns.each(function(index) {
             const $dropdown = $(this);
             const $label = $dropdown.find('.jet-filter-items-dropdown__label');
 
@@ -87,11 +91,13 @@
                 // Toggle dropdown
                 $dropdown.toggleClass('jet-dropdown-open');
 
-                // Cerrar otros dropdowns del mismo slide
-                $dropdown.closest('.slick-slide').find('.jet-filter-items-dropdown').not($dropdown).removeClass('jet-dropdown-open');
+                // Cerrar otros dropdowns de TODOS los slides
+                $container.find('.jet-filter-items-dropdown').not($dropdown).removeClass('jet-dropdown-open');
 
-                console.log('Dropdown toggled:', $dropdown.hasClass('jet-dropdown-open'));
+                console.log('Dropdown', index, 'toggled:', $dropdown.hasClass('jet-dropdown-open'));
             });
+
+            console.log('Event listener agregado al dropdown', index);
         });
 
         // Cerrar dropdowns al hacer click fuera
