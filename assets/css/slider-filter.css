@@ -113,7 +113,6 @@
     position: absolute;
     top: 100%;
     left: 0;
-    right: 0;
     z-index: 9999;
     background: #0E0D0F !important;
     box-shadow: 0 4px 20px rgba(0,0,0,0.25) !important;
@@ -123,6 +122,9 @@
     height: auto !important;
     max-height: none !important;
     min-height: auto !important;
+    width: max-content !important;
+    min-width: 100%;
+    white-space: nowrap;
 }
 
 /* Mostrar el body cuando el dropdown está abierto */
@@ -137,24 +139,41 @@
     overflow-y: visible !important;
     max-height: none !important;
     height: auto !important;
+    white-space: nowrap !important;
 }
 
 .slider-filter-container .jet-checkboxes-list {
     overflow: visible !important;
     max-height: none !important;
     height: auto !important;
+    white-space: nowrap !important;
 }
 
 .slider-filter-container .jet-checkboxes-list-wrapper {
     overflow: visible !important;
     max-height: none !important;
     height: auto !important;
+    white-space: nowrap !important;
 }
 
 /* Asegurar que todos los items del dropdown sean visibles */
 .slider-filter-container .jet-checkboxes-list__row {
     display: block !important;
     height: auto !important;
+    white-space: nowrap !important;
+}
+
+/* Asegurar que el texto de los labels no se desborde */
+.slider-filter-container .jet-checkboxes-list__label {
+    white-space: nowrap !important;
+    overflow: visible !important;
+    text-overflow: clip !important;
+}
+
+.slider-filter-container .jet-checkboxes-list__button {
+    white-space: nowrap !important;
+    display: inline-flex !important;
+    align-items: center !important;
 }
 
 /* Asegurar que los slides clonados no interfieran */
