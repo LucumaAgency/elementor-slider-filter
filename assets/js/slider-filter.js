@@ -50,9 +50,54 @@
                 try {
                     $container.slick(config);
                     console.log('Slick Slider inicializado en:', $container);
+
+                    // Reinicializar dropdowns de JetSmartFilters después de Slick
+                    setTimeout(function() {
+                        initDropdowns($container);
+                    }, 100);
+
+                    // Cerrar dropdowns al cambiar de slide
+                    $container.on('beforeChange', function(event, slick, currentSlide, nextSlide) {
+                        $container.find('.jet-filter-items-dropdown').removeClass('jet-dropdown-open');
+                    });
                 } catch (error) {
                     console.error('Error al inicializar Slick Slider:', error);
                 }
+            }
+        });
+    }
+
+    /**
+     * Función para inicializar dropdowns de JetSmartFilters
+     */
+    function initDropdowns($container) {
+        // Encontrar todos los dropdowns solo en slides activos (no clonados)
+        $container.find('.slick-slide:not(.slick-cloned) .jet-filter-items-dropdown').each(function() {
+            const $dropdown = $(this);
+            const $label = $dropdown.find('.jet-filter-items-dropdown__label');
+
+            // Remover event listeners anteriores
+            $label.off('click.sliderFilter');
+
+            // Agregar nuevo event listener
+            $label.on('click.sliderFilter', function(e) {
+                e.preventDefault();
+                e.stopPropagation();
+
+                // Toggle dropdown
+                $dropdown.toggleClass('jet-dropdown-open');
+
+                // Cerrar otros dropdowns del mismo slide
+                $dropdown.closest('.slick-slide').find('.jet-filter-items-dropdown').not($dropdown).removeClass('jet-dropdown-open');
+
+                console.log('Dropdown toggled:', $dropdown.hasClass('jet-dropdown-open'));
+            });
+        });
+
+        // Cerrar dropdowns al hacer click fuera
+        $(document).off('click.sliderFilterDropdown').on('click.sliderFilterDropdown', function(e) {
+            if (!$(e.target).closest('.jet-filter-items-dropdown').length) {
+                $container.find('.jet-filter-items-dropdown').removeClass('jet-dropdown-open');
             }
         });
     }
