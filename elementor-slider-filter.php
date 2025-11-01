@@ -3,7 +3,7 @@
  * Plugin Name: Elementor Slider Filter
  * Plugin URI: https://example.com/elementor-slider-filter
  * Description: Plugin para crear sliders usando Slick Slider en contenedores de Elementor con la clase slider-filter-container
- * Version: 1.2.1
+ * Version: 1.2.2
  * Author: Tu Nombre
  * Author URI: https://example.com
  * License: GPL v2 or later
@@ -59,7 +59,7 @@ class Elementor_Slider_Filter {
             'elementor-slider-filter-css',
             plugin_dir_url(__FILE__) . 'assets/css/slider-filter.css',
             array(),
-            '1.2.1'
+            '1.2.2'
         );
 
         // Nuestro JS de inicialización
@@ -67,7 +67,7 @@ class Elementor_Slider_Filter {
             'elementor-slider-filter-js',
             plugin_dir_url(__FILE__) . 'assets/js/slider-filter.js',
             array('jquery', 'slick-slider-js'),
-            '1.2.1',
+            '1.2.2',
             true
         );
 
@@ -75,29 +75,26 @@ class Elementor_Slider_Filter {
         wp_localize_script('elementor-slider-filter-js', 'sliderFilterConfig', array(
             'containerClass' => 'slider-filter-container',
             'slickConfig' => array(
-                'slidesToShow' => 3,
+                'slidesToShow' => 2.5,
                 'slidesToScroll' => 1,
                 'dots' => true,
                 'arrows' => false,
                 'infinite' => true,
                 'autoplay' => false,
                 'autoplaySpeed' => 3000,
-                'variableWidth' => true,
                 'responsive' => array(
                     array(
                         'breakpoint' => 1024,
                         'settings' => array(
-                            'slidesToShow' => 2,
-                            'slidesToScroll' => 1,
-                            'variableWidth' => true
+                            'slidesToShow' => 2.5,
+                            'slidesToScroll' => 1
                         )
                     ),
                     array(
                         'breakpoint' => 768,
                         'settings' => array(
-                            'slidesToShow' => 1,
-                            'slidesToScroll' => 1,
-                            'variableWidth' => true
+                            'slidesToShow' => 2.5,
+                            'slidesToScroll' => 1
                         )
                     )
                 )
