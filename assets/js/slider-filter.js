@@ -81,12 +81,12 @@
             const $label = $dropdown.find('.jet-filter-items-dropdown__label');
 
             // Remover event listeners anteriores
-            $label.off('click.sliderFilter');
+            $label.off('click.sliderFilter touchstart.sliderFilter');
 
-            // Agregar nuevo event listener
-            $label.on('click.sliderFilter', function(e) {
+            // Agregar event listener para móvil y desktop
+            $label.on('click.sliderFilter touchstart.sliderFilter', function(e) {
+                // Solo prevenir el comportamiento default, no detener propagación
                 e.preventDefault();
-                e.stopPropagation();
 
                 // Toggle dropdown
                 $dropdown.toggleClass('jet-dropdown-open');
