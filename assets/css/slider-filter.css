@@ -1,0 +1,134 @@
+/**
+ * Estilos para Elementor Slider Filter
+ * Personalización de Slick Slider
+ */
+
+/* Contenedor del slider */
+.slider-filter-container {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* Ajustes para los slides */
+.slider-filter-container .slick-slide {
+    margin: 0 10px;
+    outline: none;
+}
+
+.slider-filter-container .slick-list {
+    margin: 0 -10px;
+}
+
+/* Flechas de navegación */
+.slider-filter-container .slick-prev,
+.slider-filter-container .slick-next {
+    width: 40px;
+    height: 40px;
+    z-index: 10;
+}
+
+.slider-filter-container .slick-prev {
+    left: -50px;
+}
+
+.slider-filter-container .slick-next {
+    right: -50px;
+}
+
+.slider-filter-container .slick-prev:before,
+.slider-filter-container .slick-next:before {
+    font-size: 40px;
+    opacity: 0.75;
+}
+
+.slider-filter-container .slick-prev:hover:before,
+.slider-filter-container .slick-next:hover:before {
+    opacity: 1;
+}
+
+/* Responsive: Mover flechas dentro del slider en móviles */
+@media screen and (max-width: 768px) {
+    .slider-filter-container .slick-prev {
+        left: 10px;
+    }
+
+    .slider-filter-container .slick-next {
+        right: 10px;
+    }
+
+    .slider-filter-container .slick-prev,
+    .slider-filter-container .slick-next {
+        width: 30px;
+        height: 30px;
+    }
+
+    .slider-filter-container .slick-prev:before,
+    .slider-filter-container .slick-next:before {
+        font-size: 30px;
+    }
+}
+
+/* Puntos de navegación (dots) */
+.slider-filter-container .slick-dots {
+    bottom: -40px;
+}
+
+.slider-filter-container .slick-dots li button:before {
+    font-size: 12px;
+    opacity: 0.5;
+}
+
+.slider-filter-container .slick-dots li.slick-active button:before {
+    opacity: 1;
+    color: #000;
+}
+
+/* Ajustes para mantener la altura consistente */
+.slider-filter-container .slick-track {
+    display: flex;
+    align-items: stretch;
+}
+
+.slider-filter-container .slick-slide {
+    height: auto;
+    display: flex;
+    align-items: stretch;
+}
+
+.slider-filter-container .slick-slide > div {
+    width: 100%;
+}
+
+/* Asegurar que los contenedores hijos ocupen todo el espacio */
+.slider-filter-container .slick-slide > div > * {
+    height: 100%;
+}
+
+/* Animación suave al cambiar slides */
+.slider-filter-container .slick-slide {
+    transition: opacity 0.3s ease;
+}
+
+.slider-filter-container .slick-slide:not(.slick-active) {
+    opacity: 0.7;
+}
+
+.slider-filter-container .slick-slide.slick-active {
+    opacity: 1;
+}
+
+/* Estilos adicionales para compatibilidad con Elementor */
+.elementor-widget-container .slider-filter-container {
+    overflow: visible;
+}
+
+/* Loading state */
+.slider-filter-container:not(.slick-initialized) {
+    opacity: 0;
+}
+
+.slider-filter-container.slick-initialized {
+    opacity: 1;
+    transition: opacity 0.3s ease;
+}
