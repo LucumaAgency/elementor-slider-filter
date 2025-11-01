@@ -14,59 +14,28 @@
 .slider-filter-container .slick-slide {
     margin: 0 10px;
     outline: none;
+    width: auto !important;
 }
 
 .slider-filter-container .slick-list {
     margin: 0 -10px;
 }
 
-/* Flechas de navegación */
+/* Mantener ancho natural de los slides */
+.slider-filter-container .slick-slide > div {
+    display: inline-block;
+    width: auto !important;
+}
+
+.slider-filter-container .slick-slide > div > * {
+    width: auto !important;
+    display: inline-block;
+}
+
+/* Ocultar flechas de navegación */
 .slider-filter-container .slick-prev,
 .slider-filter-container .slick-next {
-    width: 40px;
-    height: 40px;
-    z-index: 10;
-}
-
-.slider-filter-container .slick-prev {
-    left: -50px;
-}
-
-.slider-filter-container .slick-next {
-    right: -50px;
-}
-
-.slider-filter-container .slick-prev:before,
-.slider-filter-container .slick-next:before {
-    font-size: 40px;
-    opacity: 0.75;
-}
-
-.slider-filter-container .slick-prev:hover:before,
-.slider-filter-container .slick-next:hover:before {
-    opacity: 1;
-}
-
-/* Responsive: Mover flechas dentro del slider en móviles */
-@media screen and (max-width: 768px) {
-    .slider-filter-container .slick-prev {
-        left: 10px;
-    }
-
-    .slider-filter-container .slick-next {
-        right: 10px;
-    }
-
-    .slider-filter-container .slick-prev,
-    .slider-filter-container .slick-next {
-        width: 30px;
-        height: 30px;
-    }
-
-    .slider-filter-container .slick-prev:before,
-    .slider-filter-container .slick-next:before {
-        font-size: 30px;
-    }
+    display: none !important;
 }
 
 /* Puntos de navegación (dots) */
@@ -94,15 +63,6 @@
     height: auto;
     display: flex;
     align-items: stretch;
-}
-
-.slider-filter-container .slick-slide > div {
-    width: 100%;
-}
-
-/* Asegurar que los contenedores hijos ocupen todo el espacio */
-.slider-filter-container .slick-slide > div > * {
-    height: 100%;
 }
 
 /* Animación suave al cambiar slides */
