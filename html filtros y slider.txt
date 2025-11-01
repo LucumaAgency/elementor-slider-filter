@@ -1,0 +1,996 @@
+<div class="elementor-element elementor-element-512f018f e-con-full slider-filter-container e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-initialized slick-slider slick-dotted" data-id="512f018f" data-element_type="container" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}"><button class="slick-prev slick-arrow" aria-label="Previous" type="button" style="" data-dashlane-label="true" data-dashlane-rid="ac54b02dd0cf8a73">Previous</button>
+		<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 5850px; transform: translate3d(-2340px, 0px, 0px);"><div class="elementor-element elementor-element-3878d8e6 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-cloned" data-id="3878d8e6" data-element_type="container" data-slick-index="-3" id="" aria-hidden="true" style="width: 370px;" tabindex="-1">
+				<div class="elementor-element elementor-element-75f41294 custom-filter elementor-widget elementor-widget-jet-smart-filters-sorting" data-id="75f41294" data-element_type="widget" id="" data-widget_type="jet-smart-filters-sorting.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-sorting jet-filter" jsf-filter=""><div class="jet-sorting jet-sorting--flex-column" data-smart-filter="sorting" data-query-type="sort" data-query-var="standard" data-content-provider="epro-loop-builder" data-query-id="sort_by_price" data-apply-type="ajax" data-apply-on="value" data-additional-providers="">
+		<select class="jet-sorting-select" name="select-name" aria-label="Sort filter" tabindex="-1">
+					<option value="">Pricing</option>
+										<option value="{&quot;orderby&quot;:&quot;meta_value_num&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;meta_key&quot;:&quot;course_lowest_price&quot;}">Cheapest</option>
+								<option value="{&quot;orderby&quot;:&quot;meta_value_num&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;meta_key&quot;:&quot;course_lowest_price&quot;}">Highest</option>
+			</select>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-31e41596 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-cloned" data-id="31e41596" data-element_type="container" data-slick-index="-2" id="" aria-hidden="true" style="width: 390px;" tabindex="-1">
+				<div class="elementor-element elementor-element-7ba8dba6 custom-filter elementor-widget elementor-widget-jet-smart-filters-sorting" data-id="7ba8dba6" data-element_type="widget" id="" data-widget_type="jet-smart-filters-sorting.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-sorting jet-filter" jsf-filter=""><div class="jet-sorting jet-sorting--flex-column" data-smart-filter="sorting" data-query-type="sort" data-query-var="standard" data-content-provider="epro-loop-builder" data-query-id="default" data-apply-type="ajax" data-apply-on="value" data-additional-providers="">
+		<select class="jet-sorting-select" name="select-name" aria-label="Sort filter" tabindex="-1">
+					<option value="">Live Date</option>
+										<option value="{&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;meta_key&quot;:&quot;date_-_card&quot;}">Lastest</option>
+								<option value="{&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;meta_key&quot;:&quot;date_-_card&quot;}">Earliest</option>
+			</select>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-3cd1dc1b e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-cloned" data-id="3cd1dc1b" data-element_type="container" data-slick-index="-1" id="" aria-hidden="true" style="width: 370px;" tabindex="-1">
+				<div class="elementor-element elementor-element-180067c3 elementor-widget elementor-widget-jet-smart-filters-checkboxes" data-id="180067c3" data-element_type="widget" id="" data-widget_type="jet-smart-filters-checkboxes.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-checkboxes jet-filter " data-indexer-rule="show" data-show-counter="" data-change-counter="always" jsf-filter=""><div class="jet-filter-items-dropdown" data-dropdown-n-selected="0" data-dropdown-n-selected-text="">
+	<div class="jet-filter-items-dropdown__label">Status</div>
+	<div class="jet-filter-items-dropdown__body">
+		<div class="jet-checkboxes-list" data-query-type="tax_query" data-query-var="course-badge" data-smart-filter="checkboxes" data-filter-id="64394" data-apply-type="ajax" data-content-provider="epro-loop-builder" data-additional-providers="" data-query-id="default" data-active-label="" data-layout-options="{&quot;show_label&quot;:true,&quot;display_options&quot;:{&quot;show_items_label&quot;:false,&quot;show_decorator&quot;:&quot;yes&quot;,&quot;filter_image_size&quot;:&quot;full&quot;,&quot;show_counter&quot;:false}}" data-query-var-suffix="" data-apply-on="value"><fieldset class="jet-checkboxes-list-wrapper"><legend style="display:none;">Checkbox Course Badges</legend><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="78" data-label="Featured" aria-label="Featured" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Featured</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="79" data-label="Hot" aria-label="Hot" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Hot</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="80" data-label="New" aria-label="New" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">New</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="108" data-label="Special" aria-label="Special" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Special</span>
+					</div>
+	</label>
+</div></fieldset></div>
+			</div>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-26f9cdc e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide" data-id="26f9cdc" data-element_type="container" data-slick-index="0" aria-hidden="true" style="width: 370px;" tabindex="-1" role="tabpanel" id="slick-slide00" aria-describedby="slick-slide-control00">
+				<div class="elementor-element elementor-element-62cdca51 elementor-widget elementor-widget-jet-smart-filters-checkboxes" data-id="62cdca51" data-element_type="widget" id="dropdown-icon" data-widget_type="jet-smart-filters-checkboxes.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-checkboxes jet-filter " data-indexer-rule="show" data-show-counter="" data-change-counter="always" jsf-filter=""><div class="jet-filter-items-dropdown" data-dropdown-n-selected="0" data-dropdown-n-selected-text="">
+	<div class="jet-filter-items-dropdown__label">Categories</div>
+	<div class="jet-filter-items-dropdown__body">
+		<div class="jet-checkboxes-list" data-query-type="tax_query" data-query-var="course-category" data-smart-filter="checkboxes" data-filter-id="64390" data-apply-type="ajax" data-content-provider="epro-loop-builder" data-additional-providers="" data-query-id="default" data-active-label="" data-layout-options="{&quot;show_label&quot;:true,&quot;display_options&quot;:{&quot;show_items_label&quot;:false,&quot;show_decorator&quot;:&quot;yes&quot;,&quot;filter_image_size&quot;:&quot;full&quot;,&quot;show_counter&quot;:false}}" data-query-var-suffix="" data-apply-on="value"><fieldset class="jet-checkboxes-list-wrapper"><legend style="display:none;">Checkbox categories</legend><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="81" data-label="3D Design" aria-label="3D Design" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">3D Design</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="83" data-label="Animation" aria-label="Animation" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Animation</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="84" data-label="Architecture" aria-label="Architecture" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Architecture</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="86" data-label="Filmmaking" aria-label="Filmmaking" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Filmmaking</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="87" data-label="Generative AI" aria-label="Generative AI" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Generative AI</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="88" data-label="Marketing" aria-label="Marketing" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Marketing</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="89" data-label="Music Video" aria-label="Music Video" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Music Video</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="90" data-label="Photography" aria-label="Photography" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Photography</span>
+					</div>
+	</label>
+</div></fieldset></div>
+			</div>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-5c5cb34e e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide" data-id="5c5cb34e" data-element_type="container" data-slick-index="1" aria-hidden="true" style="width: 370px;" tabindex="-1" role="tabpanel" id="slick-slide01" aria-describedby="slick-slide-control01">
+				<div class="elementor-element elementor-element-4454101d elementor-widget elementor-widget-jet-smart-filters-checkboxes" data-id="4454101d" data-element_type="widget" id="dropdown-icon" data-widget_type="jet-smart-filters-checkboxes.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-checkboxes jet-filter " data-indexer-rule="show" data-show-counter="" data-change-counter="always" jsf-filter=""><div class="jet-filter-items-dropdown" data-dropdown-n-selected="0" data-dropdown-n-selected-text="">
+	<div class="jet-filter-items-dropdown__label">Type</div>
+	<div class="jet-filter-items-dropdown__body">
+		<div class="jet-checkboxes-list" data-query-type="tax_query" data-query-var="course-type" data-smart-filter="checkboxes" data-filter-id="64393" data-apply-type="ajax" data-content-provider="epro-loop-builder" data-additional-providers="" data-query-id="default" data-active-label="" data-layout-options="{&quot;show_label&quot;:true,&quot;display_options&quot;:{&quot;show_items_label&quot;:false,&quot;show_decorator&quot;:&quot;yes&quot;,&quot;filter_image_size&quot;:&quot;full&quot;,&quot;show_counter&quot;:false}}" data-query-var-suffix="" data-apply-on="value"><fieldset class="jet-checkboxes-list-wrapper"><legend style="display:none;">Checkbox Course Type</legend><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-type" value="99" data-label="Live" aria-label="Live" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Live</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-type" value="100" data-label="VOD" aria-label="VOD" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">VOD</span>
+					</div>
+	</label>
+</div></fieldset></div>
+			</div>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-6f23309d e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide" data-id="6f23309d" data-element_type="container" data-slick-index="2" aria-hidden="true" style="width: 370px;" tabindex="-1" role="tabpanel" id="slick-slide02" aria-describedby="slick-slide-control02">
+				<div class="elementor-element elementor-element-1905309b elementor-widget elementor-widget-jet-smart-filters-checkboxes" data-id="1905309b" data-element_type="widget" id="dropdown-icon" data-widget_type="jet-smart-filters-checkboxes.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-checkboxes jet-filter " data-indexer-rule="show" data-show-counter="" data-change-counter="always" jsf-filter=""><div class="jet-filter-items-dropdown" data-dropdown-n-selected="0" data-dropdown-n-selected-text="">
+	<div class="jet-filter-items-dropdown__label">Tools</div>
+	<div class="jet-filter-items-dropdown__body">
+		<div class="jet-checkboxes-list" data-query-type="tax_query" data-query-var="course-tool" data-smart-filter="checkboxes" data-filter-id="64395" data-apply-type="ajax" data-content-provider="epro-loop-builder" data-additional-providers="" data-query-id="default" data-active-label="" data-layout-options="{&quot;show_label&quot;:true,&quot;display_options&quot;:{&quot;show_items_label&quot;:false,&quot;show_decorator&quot;:&quot;yes&quot;,&quot;filter_image_size&quot;:&quot;full&quot;,&quot;show_counter&quot;:false}}" data-query-var-suffix="" data-apply-on="value"><fieldset class="jet-checkboxes-list-wrapper"><legend style="display:none;">Checkbox Course Tools</legend><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="91" data-label="After Effects" aria-label="After Effects" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">After Effects</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="92" data-label="Arcana" aria-label="Arcana" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Arcana</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="93" data-label="Blender" aria-label="Blender" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Blender</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="94" data-label="ComfyUI" aria-label="ComfyUI" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">ComfyUI</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="111" data-label="Freepik" aria-label="Freepik" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Freepik</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="112" data-label="Hailuo AI" aria-label="Hailuo AI" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Hailuo AI</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="105" data-label="Higgsfield" aria-label="Higgsfield" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Higgsfield</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="95" data-label="Kling" aria-label="Kling" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Kling</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="110" data-label="Luma Labs" aria-label="Luma Labs" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Luma Labs</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="96" data-label="Midjourney" aria-label="Midjourney" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Midjourney</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="101" data-label="Nano Banana" aria-label="Nano Banana" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Nano Banana</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="103" data-label="Premiere Pro" aria-label="Premiere Pro" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Premiere Pro</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="109" data-label="Runway" aria-label="Runway" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Runway</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="102" data-label="Seedream" aria-label="Seedream" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Seedream</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="104" data-label="Suno" aria-label="Suno" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Suno</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="98" data-label="Veo 3" aria-label="Veo 3" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Veo 3</span>
+					</div>
+	</label>
+</div></fieldset></div>
+			</div>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-3878d8e6 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-current slick-active" data-id="3878d8e6" data-element_type="container" data-slick-index="3" aria-hidden="false" style="width: 370px;" tabindex="0" role="tabpanel" id="slick-slide03" aria-describedby="slick-slide-control03">
+				<div class="elementor-element elementor-element-75f41294 custom-filter elementor-widget elementor-widget-jet-smart-filters-sorting" data-id="75f41294" data-element_type="widget" id="dropdown-icon" data-widget_type="jet-smart-filters-sorting.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-sorting jet-filter" jsf-filter=""><div class="jet-sorting jet-sorting--flex-column" data-smart-filter="sorting" data-query-type="sort" data-query-var="standard" data-content-provider="epro-loop-builder" data-query-id="sort_by_price" data-apply-type="ajax" data-apply-on="value" data-additional-providers="">
+		<select class="jet-sorting-select" name="select-name" aria-label="Sort filter" tabindex="0" data-dashlane-rid="d06825315bb305f1">
+					<option value="">Pricing</option>
+										<option value="{&quot;orderby&quot;:&quot;meta_value_num&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;meta_key&quot;:&quot;course_lowest_price&quot;}">Cheapest</option>
+								<option value="{&quot;orderby&quot;:&quot;meta_value_num&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;meta_key&quot;:&quot;course_lowest_price&quot;}">Highest</option>
+			</select>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-31e41596 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-active" data-id="31e41596" data-element_type="container" data-slick-index="4" aria-hidden="false" style="width: 390px;" tabindex="0" role="tabpanel" id="slick-slide04" aria-describedby="slick-slide-control04">
+				<div class="elementor-element elementor-element-7ba8dba6 custom-filter elementor-widget elementor-widget-jet-smart-filters-sorting" data-id="7ba8dba6" data-element_type="widget" id="dropdown-icon" data-widget_type="jet-smart-filters-sorting.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-sorting jet-filter" jsf-filter=""><div class="jet-sorting jet-sorting--flex-column" data-smart-filter="sorting" data-query-type="sort" data-query-var="standard" data-content-provider="epro-loop-builder" data-query-id="default" data-apply-type="ajax" data-apply-on="value" data-additional-providers="">
+		<select class="jet-sorting-select" name="select-name" aria-label="Sort filter" tabindex="0" data-dashlane-rid="42aaa1a3605ba437">
+					<option value="">Live Date</option>
+										<option value="{&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;meta_key&quot;:&quot;date_-_card&quot;}">Lastest</option>
+								<option value="{&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;meta_key&quot;:&quot;date_-_card&quot;}">Earliest</option>
+			</select>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-3cd1dc1b e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-active" data-id="3cd1dc1b" data-element_type="container" data-slick-index="5" aria-hidden="false" style="width: 370px;" tabindex="0" role="tabpanel" id="slick-slide05" aria-describedby="slick-slide-control05">
+				<div class="elementor-element elementor-element-180067c3 elementor-widget elementor-widget-jet-smart-filters-checkboxes" data-id="180067c3" data-element_type="widget" id="dropdown-icon" data-widget_type="jet-smart-filters-checkboxes.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-checkboxes jet-filter " data-indexer-rule="show" data-show-counter="" data-change-counter="always" jsf-filter=""><div class="jet-filter-items-dropdown jet-dropdown-open" data-dropdown-n-selected="0" data-dropdown-n-selected-text="">
+	<div class="jet-filter-items-dropdown__label">Status</div>
+	<div class="jet-filter-items-dropdown__body">
+		<div class="jet-checkboxes-list" data-query-type="tax_query" data-query-var="course-badge" data-smart-filter="checkboxes" data-filter-id="64394" data-apply-type="ajax" data-content-provider="epro-loop-builder" data-additional-providers="" data-query-id="default" data-active-label="" data-layout-options="{&quot;show_label&quot;:true,&quot;display_options&quot;:{&quot;show_items_label&quot;:false,&quot;show_decorator&quot;:&quot;yes&quot;,&quot;filter_image_size&quot;:&quot;full&quot;,&quot;show_counter&quot;:false}}" data-query-var-suffix="" data-apply-on="value"><fieldset class="jet-checkboxes-list-wrapper"><legend style="display:none;">Checkbox Course Badges</legend><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="78" data-label="Featured" aria-label="Featured" tabindex="0">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Featured</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="79" data-label="Hot" aria-label="Hot" tabindex="0">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Hot</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="80" data-label="New" aria-label="New" tabindex="0">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">New</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="108" data-label="Special" aria-label="Special" tabindex="0">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Special</span>
+					</div>
+	</label>
+</div></fieldset></div>
+			</div>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-26f9cdc e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-cloned" data-id="26f9cdc" data-element_type="container" data-slick-index="6" id="" aria-hidden="true" style="width: 370px;" tabindex="-1">
+				<div class="elementor-element elementor-element-62cdca51 elementor-widget elementor-widget-jet-smart-filters-checkboxes" data-id="62cdca51" data-element_type="widget" id="" data-widget_type="jet-smart-filters-checkboxes.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-checkboxes jet-filter " data-indexer-rule="show" data-show-counter="" data-change-counter="always" jsf-filter=""><div class="jet-filter-items-dropdown" data-dropdown-n-selected="0" data-dropdown-n-selected-text="">
+	<div class="jet-filter-items-dropdown__label">Categories</div>
+	<div class="jet-filter-items-dropdown__body">
+		<div class="jet-checkboxes-list" data-query-type="tax_query" data-query-var="course-category" data-smart-filter="checkboxes" data-filter-id="64390" data-apply-type="ajax" data-content-provider="epro-loop-builder" data-additional-providers="" data-query-id="default" data-active-label="" data-layout-options="{&quot;show_label&quot;:true,&quot;display_options&quot;:{&quot;show_items_label&quot;:false,&quot;show_decorator&quot;:&quot;yes&quot;,&quot;filter_image_size&quot;:&quot;full&quot;,&quot;show_counter&quot;:false}}" data-query-var-suffix="" data-apply-on="value"><fieldset class="jet-checkboxes-list-wrapper"><legend style="display:none;">Checkbox categories</legend><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="81" data-label="3D Design" aria-label="3D Design" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">3D Design</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="83" data-label="Animation" aria-label="Animation" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Animation</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="84" data-label="Architecture" aria-label="Architecture" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Architecture</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="86" data-label="Filmmaking" aria-label="Filmmaking" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Filmmaking</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="87" data-label="Generative AI" aria-label="Generative AI" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Generative AI</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="88" data-label="Marketing" aria-label="Marketing" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Marketing</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="89" data-label="Music Video" aria-label="Music Video" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Music Video</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-category" value="90" data-label="Photography" aria-label="Photography" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Photography</span>
+					</div>
+	</label>
+</div></fieldset></div>
+			</div>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-5c5cb34e e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-cloned" data-id="5c5cb34e" data-element_type="container" data-slick-index="7" id="" aria-hidden="true" style="width: 370px;" tabindex="-1">
+				<div class="elementor-element elementor-element-4454101d elementor-widget elementor-widget-jet-smart-filters-checkboxes" data-id="4454101d" data-element_type="widget" id="" data-widget_type="jet-smart-filters-checkboxes.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-checkboxes jet-filter " data-indexer-rule="show" data-show-counter="" data-change-counter="always" jsf-filter=""><div class="jet-filter-items-dropdown" data-dropdown-n-selected="0" data-dropdown-n-selected-text="">
+	<div class="jet-filter-items-dropdown__label">Type</div>
+	<div class="jet-filter-items-dropdown__body">
+		<div class="jet-checkboxes-list" data-query-type="tax_query" data-query-var="course-type" data-smart-filter="checkboxes" data-filter-id="64393" data-apply-type="ajax" data-content-provider="epro-loop-builder" data-additional-providers="" data-query-id="default" data-active-label="" data-layout-options="{&quot;show_label&quot;:true,&quot;display_options&quot;:{&quot;show_items_label&quot;:false,&quot;show_decorator&quot;:&quot;yes&quot;,&quot;filter_image_size&quot;:&quot;full&quot;,&quot;show_counter&quot;:false}}" data-query-var-suffix="" data-apply-on="value"><fieldset class="jet-checkboxes-list-wrapper"><legend style="display:none;">Checkbox Course Type</legend><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-type" value="99" data-label="Live" aria-label="Live" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Live</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-type" value="100" data-label="VOD" aria-label="VOD" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">VOD</span>
+					</div>
+	</label>
+</div></fieldset></div>
+			</div>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-6f23309d e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-cloned" data-id="6f23309d" data-element_type="container" data-slick-index="8" id="" aria-hidden="true" style="width: 370px;" tabindex="-1">
+				<div class="elementor-element elementor-element-1905309b elementor-widget elementor-widget-jet-smart-filters-checkboxes" data-id="1905309b" data-element_type="widget" id="" data-widget_type="jet-smart-filters-checkboxes.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-checkboxes jet-filter " data-indexer-rule="show" data-show-counter="" data-change-counter="always" jsf-filter=""><div class="jet-filter-items-dropdown" data-dropdown-n-selected="0" data-dropdown-n-selected-text="">
+	<div class="jet-filter-items-dropdown__label">Tools</div>
+	<div class="jet-filter-items-dropdown__body">
+		<div class="jet-checkboxes-list" data-query-type="tax_query" data-query-var="course-tool" data-smart-filter="checkboxes" data-filter-id="64395" data-apply-type="ajax" data-content-provider="epro-loop-builder" data-additional-providers="" data-query-id="default" data-active-label="" data-layout-options="{&quot;show_label&quot;:true,&quot;display_options&quot;:{&quot;show_items_label&quot;:false,&quot;show_decorator&quot;:&quot;yes&quot;,&quot;filter_image_size&quot;:&quot;full&quot;,&quot;show_counter&quot;:false}}" data-query-var-suffix="" data-apply-on="value"><fieldset class="jet-checkboxes-list-wrapper"><legend style="display:none;">Checkbox Course Tools</legend><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="91" data-label="After Effects" aria-label="After Effects" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">After Effects</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="92" data-label="Arcana" aria-label="Arcana" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Arcana</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="93" data-label="Blender" aria-label="Blender" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Blender</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="94" data-label="ComfyUI" aria-label="ComfyUI" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">ComfyUI</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="111" data-label="Freepik" aria-label="Freepik" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Freepik</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="112" data-label="Hailuo AI" aria-label="Hailuo AI" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Hailuo AI</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="105" data-label="Higgsfield" aria-label="Higgsfield" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Higgsfield</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="95" data-label="Kling" aria-label="Kling" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Kling</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="110" data-label="Luma Labs" aria-label="Luma Labs" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Luma Labs</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="96" data-label="Midjourney" aria-label="Midjourney" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Midjourney</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="101" data-label="Nano Banana" aria-label="Nano Banana" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Nano Banana</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="103" data-label="Premiere Pro" aria-label="Premiere Pro" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Premiere Pro</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="109" data-label="Runway" aria-label="Runway" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Runway</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="102" data-label="Seedream" aria-label="Seedream" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Seedream</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="104" data-label="Suno" aria-label="Suno" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Suno</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-tool" value="98" data-label="Veo 3" aria-label="Veo 3" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Veo 3</span>
+					</div>
+	</label>
+</div></fieldset></div>
+			</div>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-3878d8e6 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-cloned" data-id="3878d8e6" data-element_type="container" data-slick-index="9" id="" aria-hidden="true" style="width: 370px;" tabindex="-1">
+				<div class="elementor-element elementor-element-75f41294 custom-filter elementor-widget elementor-widget-jet-smart-filters-sorting" data-id="75f41294" data-element_type="widget" id="" data-widget_type="jet-smart-filters-sorting.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-sorting jet-filter" jsf-filter=""><div class="jet-sorting jet-sorting--flex-column" data-smart-filter="sorting" data-query-type="sort" data-query-var="standard" data-content-provider="epro-loop-builder" data-query-id="sort_by_price" data-apply-type="ajax" data-apply-on="value" data-additional-providers="">
+		<select class="jet-sorting-select" name="select-name" aria-label="Sort filter" tabindex="-1">
+					<option value="">Pricing</option>
+										<option value="{&quot;orderby&quot;:&quot;meta_value_num&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;meta_key&quot;:&quot;course_lowest_price&quot;}">Cheapest</option>
+								<option value="{&quot;orderby&quot;:&quot;meta_value_num&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;meta_key&quot;:&quot;course_lowest_price&quot;}">Highest</option>
+			</select>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-31e41596 e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-cloned" data-id="31e41596" data-element_type="container" data-slick-index="10" id="" aria-hidden="true" style="width: 390px;" tabindex="-1">
+				<div class="elementor-element elementor-element-7ba8dba6 custom-filter elementor-widget elementor-widget-jet-smart-filters-sorting" data-id="7ba8dba6" data-element_type="widget" id="" data-widget_type="jet-smart-filters-sorting.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-sorting jet-filter" jsf-filter=""><div class="jet-sorting jet-sorting--flex-column" data-smart-filter="sorting" data-query-type="sort" data-query-var="standard" data-content-provider="epro-loop-builder" data-query-id="default" data-apply-type="ajax" data-apply-on="value" data-additional-providers="">
+		<select class="jet-sorting-select" name="select-name" aria-label="Sort filter" tabindex="-1">
+					<option value="">Live Date</option>
+										<option value="{&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;ASC&quot;,&quot;meta_key&quot;:&quot;date_-_card&quot;}">Lastest</option>
+								<option value="{&quot;orderby&quot;:&quot;date&quot;,&quot;order&quot;:&quot;DESC&quot;,&quot;meta_key&quot;:&quot;date_-_card&quot;}">Earliest</option>
+			</select>
+</div></div>				</div>
+				</div>
+				</div><div class="elementor-element elementor-element-3cd1dc1b e-con-full e-flex wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no e-con e-child slick-slide slick-cloned" data-id="3cd1dc1b" data-element_type="container" data-slick-index="11" id="" aria-hidden="true" style="width: 370px;" tabindex="-1">
+				<div class="elementor-element elementor-element-180067c3 elementor-widget elementor-widget-jet-smart-filters-checkboxes" data-id="180067c3" data-element_type="widget" id="" data-widget_type="jet-smart-filters-checkboxes.default">
+				<div class="elementor-widget-container">
+					<div class="jet-smart-filters-checkboxes jet-filter " data-indexer-rule="show" data-show-counter="" data-change-counter="always" jsf-filter=""><div class="jet-filter-items-dropdown" data-dropdown-n-selected="0" data-dropdown-n-selected-text="">
+	<div class="jet-filter-items-dropdown__label">Status</div>
+	<div class="jet-filter-items-dropdown__body">
+		<div class="jet-checkboxes-list" data-query-type="tax_query" data-query-var="course-badge" data-smart-filter="checkboxes" data-filter-id="64394" data-apply-type="ajax" data-content-provider="epro-loop-builder" data-additional-providers="" data-query-id="default" data-active-label="" data-layout-options="{&quot;show_label&quot;:true,&quot;display_options&quot;:{&quot;show_items_label&quot;:false,&quot;show_decorator&quot;:&quot;yes&quot;,&quot;filter_image_size&quot;:&quot;full&quot;,&quot;show_counter&quot;:false}}" data-query-var-suffix="" data-apply-on="value"><fieldset class="jet-checkboxes-list-wrapper"><legend style="display:none;">Checkbox Course Badges</legend><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="78" data-label="Featured" aria-label="Featured" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Featured</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="79" data-label="Hot" aria-label="Hot" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Hot</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="80" data-label="New" aria-label="New" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">New</span>
+					</div>
+	</label>
+</div><div class="jet-checkboxes-list__row jet-filter-row">
+		<label class="jet-checkboxes-list__item">
+		<input type="checkbox" class="jet-checkboxes-list__input" name="course-badge" value="108" data-label="Special" aria-label="Special" tabindex="-1">
+		<div class="jet-checkboxes-list__button">
+							<span class="jet-checkboxes-list__decorator">
+					<i class="jet-checkboxes-list__checked-icon"><svg width="28" height="28" viewBox="0 0 28 28" xmlns="http://www.w3.org/2000/svg">
+	<path d="M26.109 8.844c0 0.391-0.156 0.781-0.438 1.062l-13.438 13.438c-0.281 0.281-0.672 0.438-1.062 0.438s-0.781-0.156-1.062-0.438l-7.781-7.781c-0.281-0.281-0.438-0.672-0.438-1.062s0.156-0.781 0.438-1.062l2.125-2.125c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l4.594 4.609 10.25-10.266c0.281-0.281 0.672-0.438 1.062-0.438s0.781 0.156 1.062 0.438l2.125 2.125c0.281 0.281 0.438 0.672 0.438 1.062z"></path>
+</svg>
+</i>
+				</span>
+						<span class="jet-checkboxes-list__label">Special</span>
+					</div>
+	</label>
+</div></fieldset></div>
+			</div>
+</div></div>				</div>
+				</div>
+				</div></div></div>
+		
+		
+		
+		
+		
+				<button class="slick-next slick-arrow" aria-label="Next" type="button" style="" data-dashlane-label="true" data-dashlane-rid="bc1131574ad8dc38">Next</button><ul class="slick-dots" style="" role="tablist"><li class="" role="presentation"><button type="button" role="tab" id="slick-slide-control00" aria-controls="slick-slide00" aria-label="1 of 2" tabindex="-1" data-dashlane-label="true" data-dashlane-rid="f765b680f7943812">1</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control01" aria-controls="slick-slide01" aria-label="2 of 2" tabindex="-1" data-dashlane-label="true" data-dashlane-rid="8083f54c049be216">2</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control02" aria-controls="slick-slide02" aria-label="3 of 2" tabindex="-1" data-dashlane-label="true" data-dashlane-rid="2c019db5360d8e4d">3</button></li><li role="presentation" class="slick-active"><button type="button" role="tab" id="slick-slide-control03" aria-controls="slick-slide03" aria-label="4 of 2" tabindex="0" data-dashlane-label="true" data-dashlane-rid="b28c94f250cedfc9" aria-selected="true">4</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control04" aria-controls="slick-slide04" aria-label="5 of 2" tabindex="-1" data-dashlane-label="true" data-dashlane-rid="16268aba73092371">5</button></li><li role="presentation" class=""><button type="button" role="tab" id="slick-slide-control05" aria-controls="slick-slide05" aria-label="6 of 2" tabindex="-1" data-dashlane-label="true" data-dashlane-rid="f9951a8ef7bf4c9e">6</button></li></ul></div>

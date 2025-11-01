@@ -3,7 +3,7 @@
  * Plugin Name: Elementor Slider Filter
  * Plugin URI: https://example.com/elementor-slider-filter
  * Description: Plugin para crear sliders usando Slick Slider en contenedores de Elementor con la clase slider-filter-container
- * Version: 1.1.0
+ * Version: 1.1.1
  * Author: Tu Nombre
  * Author URI: https://example.com
  * License: GPL v2 or later
@@ -59,7 +59,7 @@ class Elementor_Slider_Filter {
             'elementor-slider-filter-css',
             plugin_dir_url(__FILE__) . 'assets/css/slider-filter.css',
             array(),
-            '1.1.0'
+            '1.1.1'
         );
 
         // Nuestro JS de inicialización
