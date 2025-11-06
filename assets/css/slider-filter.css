@@ -12,12 +12,12 @@
 
 /* Ajustes para los slides */
 .slider-filter-container .slick-slide {
-    margin: 0 10px;
+    margin: 0 5px;
     outline: none;
 }
 
 .slider-filter-container .slick-list {
-    margin: 0 -10px;
+    margin: 0 -5px;
 }
 
 /* Ocultar flechas de navegación */
