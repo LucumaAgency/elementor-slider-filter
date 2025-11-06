@@ -14,6 +14,20 @@
 .slider-filter-container .slick-slide {
     margin: 0 5px;
     outline: none;
+    width: 40%; /* Ancho por defecto para slides 4+ */
+}
+
+/* Anchos personalizados para los primeros 3 slides */
+.slider-filter-container .slick-slide:not(.slick-cloned):nth-child(1) {
+    width: 50%;
+}
+
+.slider-filter-container .slick-slide:not(.slick-cloned):nth-child(2) {
+    width: 40%;
+}
+
+.slider-filter-container .slick-slide:not(.slick-cloned):nth-child(3) {
+    width: 10%;
 }
 
 .slider-filter-container .slick-list {

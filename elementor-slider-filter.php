@@ -75,7 +75,8 @@ class Elementor_Slider_Filter {
         wp_localize_script('elementor-slider-filter-js', 'sliderFilterConfig', array(
             'containerClass' => 'slider-filter-container',
             'slickConfig' => array(
-                'slidesToShow' => 2.5,
+                'variableWidth' => true,
+                'slidesToShow' => 1,
                 'slidesToScroll' => 1,
                 'dots' => false,
                 'arrows' => false,
@@ -86,14 +87,16 @@ class Elementor_Slider_Filter {
                     array(
                         'breakpoint' => 1024,
                         'settings' => array(
-                            'slidesToShow' => 2.5,
+                            'variableWidth' => true,
+                            'slidesToShow' => 1,
                             'slidesToScroll' => 1
                         )
                     ),
                     array(
                         'breakpoint' => 768,
                         'settings' => array(
-                            'slidesToShow' => 2.5,
+                            'variableWidth' => true,
+                            'slidesToShow' => 1,
                             'slidesToScroll' => 1
                         )
                     )
