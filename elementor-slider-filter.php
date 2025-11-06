@@ -79,7 +79,7 @@ class Elementor_Slider_Filter {
                 'slidesToScroll' => 1,
                 'dots' => false,
                 'arrows' => false,
-                'infinite' => true,
+                'infinite' => false,
                 'autoplay' => false,
                 'autoplaySpeed' => 3000,
                 'responsive' => array(
